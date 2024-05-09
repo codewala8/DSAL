@@ -108,3 +108,10 @@ cout<<""<<arr[i];
 cout<<"\n\nMaximum Marks:"<<max<<"\nMinimum marks:"<<min;
 return 0;
 }
+Read the marks obtained by students of second year in an
+
+online examination of particular subject. Find out maximum
+
+and minimum marks obtained in that subject. Use heap data
+
+structure. Analyze the algorithm.
